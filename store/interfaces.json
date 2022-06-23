@@ -1,6 +1,5 @@
 {
-    "my-custom-component": {
-      "component": "Testimony"
-    }
+  "my-custom-component": {
+    "component": "Testimony"
   }
-  
+}
